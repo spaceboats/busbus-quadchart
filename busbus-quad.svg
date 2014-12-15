@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="526.26986"
+     inkscape:cx="528.26986"
      inkscape:cy="333.69369"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -80,7 +80,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -185,7 +185,7 @@
            id="tspan3929"
            sodipodi:role="line"
            x="84.419998"
-           y="631.35699"></tspan><tspan
+           y="631.35699" /><tspan
            sodipodi:role="line"
            x="84.419998"
            y="653.85699"
@@ -329,7 +329,7 @@
            y="631.35699"
            x="84.419998"
            sodipodi:role="line"
-           id="tspan4542"></tspan><tspan
+           id="tspan4542" /><tspan
            id="tspan4544"
            y="653.85699"
            x="84.419998"
@@ -363,7 +363,7 @@
            sodipodi:role="line"
            id="tspan4556"
            x="241.875"
-           y="554.10699">Overview</tspan></text>
+           y="554.10699">Applications</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4558"
@@ -374,31 +374,15 @@
            y="586.35699"
            x="106.92"
            sodipodi:role="line"
-           id="tspan4572">laksjd</tspan><tspan
+           id="tspan3226">Display vehicle arrival times</tspan><tspan
            y="608.85699"
            x="106.92"
            sodipodi:role="line"
-           id="tspan4654">asjdfa</tspan><tspan
+           id="tspan3230">with Android app or LED board</tspan><tspan
            y="631.35699"
            x="106.92"
            sodipodi:role="line"
-           id="tspan4656">sdflkas</tspan><tspan
-           y="653.85699"
-           x="106.92"
-           sodipodi:role="line"
-           id="tspan4658">dflajsdf</tspan><tspan
-           y="676.35699"
-           x="106.92"
-           sodipodi:role="line"
-           id="tspan4660">ajksdfasdjf</tspan><tspan
-           y="698.85699"
-           x="106.92"
-           sodipodi:role="line"
-           id="tspan4662">asdjf</tspan><tspan
-           y="721.35699"
-           x="106.92"
-           sodipodi:role="line"
-           id="tspan4666">kj</tspan></text>
+           id="tspan3232">System analysis, route planning</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -414,22 +398,10 @@
            sodipodi:role="line"
            x="84.419998"
            y="608.85699" /><tspan
-           id="tspan4580"
-           sodipodi:role="line"
-           x="84.419998"
-           y="631.35699"></tspan><tspan
-           sodipodi:role="line"
-           x="84.419998"
-           y="653.85699"
-           id="tspan4582">•</tspan><tspan
-           id="tspan4584"
-           sodipodi:role="line"
-           x="84.419998"
-           y="676.35699" /><tspan
            id="tspan4586"
            sodipodi:role="line"
            x="84.419998"
-           y="698.85699">•</tspan></text>
+           y="631.35699">•</tspan></text>
     </g>
     <text
        xml:space="preserve"
