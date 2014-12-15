@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="675"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="busbus-quad.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="526.26986"
+     inkscape:cy="333.69369"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     width="22in"
+     inkscape:window-width="1920"
+     inkscape:window-height="1134"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="416.25,0"
+       id="guide3074" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,540"
+       id="guide3082" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,33.75"
+       id="guide3084" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="67.5,0"
+       id="guide3086" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="483.75,0"
+       id="guide3088" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="832.5,0"
+       id="guide3090" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,270"
+       id="guide3092" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,303.75"
+       id="guide3094" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-377.3619)">
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="450"
+       y="444.86191"
+       id="text3064"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3066"
+         x="450"
+         y="444.86191"
+         style="fill:#0022b4;fill-opacity:1">busbus: Mass transit data platform</tspan><tspan
+         sodipodi:role="line"
+         x="450"
+         y="469.92691"
+         id="tspan3078"
+         style="font-size:16px;fill:#85898a;fill-opacity:1">Alex Gustafson, Ian Weller, Monica Shafii, Nick Gilliland, Zane Ralston</tspan><tspan
+         sodipodi:role="line"
+         x="450"
+         y="489.92691"
+         style="font-size:16px;fill:#85898a;fill-opacity:1"
+         id="tspan3872">spaceboats.github.io</tspan></text>
+    <g
+       id="g4400"
+       transform="translate(0,7.2998046e-6)">
+      <rect
+         y="512.36188"
+         x="67.5"
+         height="236.25002"
+         width="348.75"
+         id="rect3887"
+         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0022b4;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="241.875"
+         y="554.10699"
+         id="text3889"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3891"
+           x="241.875"
+           y="554.10699">Overview</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3909"
+         y="586.35699"
+         x="106.92"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3935"
+           y="586.35699"
+           x="106.92"
+           sodipodi:role="line">busbus is a platform for</tspan><tspan
+           y="608.85699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4300">consuming transit data using a</tspan><tspan
+           y="631.35699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4304">common interface</tspan><tspan
+           y="653.85699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4281">It helps developers focus on</tspan><tspan
+           y="676.35699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4285">applications, not API differences</tspan><tspan
+           y="698.85699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4306">Data can be retrieved with a</tspan><tspan
+           y="721.35699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4310">Python module or a web service</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="84.419998"
+         y="586.35699"
+         id="text3919"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="84.419998"
+           y="586.35699"
+           id="tspan3923">•</tspan><tspan
+           id="tspan3927"
+           sodipodi:role="line"
+           x="84.419998"
+           y="608.85699" /><tspan
+           id="tspan3929"
+           sodipodi:role="line"
+           x="84.419998"
+           y="631.35699"></tspan><tspan
+           sodipodi:role="line"
+           x="84.419998"
+           y="653.85699"
+           id="tspan4240">•</tspan><tspan
+           id="tspan3958"
+           sodipodi:role="line"
+           x="84.419998"
+           y="676.35699" /><tspan
+           id="tspan3960"
+           sodipodi:role="line"
+           x="84.419998"
+           y="698.85699">•</tspan></text>
+    </g>
+    <g
+       id="g4674">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4422"
+         width="348.75"
+         height="236.25002"
+         x="483.75"
+         y="512.36188" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4424"
+         y="554.10699"
+         x="658.125"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0022b4;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="554.10699"
+           x="658.125"
+           id="tspan4426"
+           sodipodi:role="line">Query-based interface</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4444"
+         y="586.35699"
+         x="500.66998"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+         xml:space="preserve"><tspan
+           y="586.35699"
+           x="500.66998"
+           sodipodi:role="line"
+           id="tspan4456">from busbus.provider.mbta \</tspan><tspan
+           id="tspan4496"
+           y="603.85699"
+           x="500.66998"
+           sodipodi:role="line">        import MBTAProvider</tspan><tspan
+           id="tspan4510"
+           y="621.35699"
+           x="500.66998"
+           sodipodi:role="line" /><tspan
+           id="tspan4498"
+           y="638.85699"
+           x="500.66998"
+           sodipodi:role="line">mbta = MBTAProvider('api-key')</tspan><tspan
+           id="tspan4502"
+           y="656.35699"
+           x="500.66998"
+           sodipodi:role="line">for r in mbta.routes.where(</tspan><tspan
+           id="tspan4506"
+           y="673.85699"
+           x="500.66998"
+           sodipodi:role="line">        lambda r: len(r.stops) &gt; 10):</tspan><tspan
+           id="tspan4508"
+           y="691.35699"
+           x="500.66998"
+           sodipodi:role="line">    print(r.name)</tspan></text>
+    </g>
+    <g
+       id="g4512"
+       transform="translate(0,270.00002)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4514"
+         width="348.75"
+         height="236.25002"
+         x="67.5"
+         y="512.36188" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4516"
+         y="554.10699"
+         x="241.875"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0022b4;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="554.10699"
+           x="241.875"
+           id="tspan4518"
+           sodipodi:role="line">Overview</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="106.92"
+         y="586.35699"
+         id="text4520"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4534"
+           sodipodi:role="line"
+           x="106.92"
+           y="586.35699">asldfj</tspan><tspan
+           sodipodi:role="line"
+           x="106.92"
+           y="608.85699"
+           id="tspan4615">sadflk;ja</tspan><tspan
+           sodipodi:role="line"
+           x="106.92"
+           y="631.35699"
+           id="tspan4617">sdfjkas</tspan><tspan
+           sodipodi:role="line"
+           x="106.92"
+           y="653.85699"
+           id="tspan4619">dlfkjas</tspan><tspan
+           sodipodi:role="line"
+           x="106.92"
+           y="676.35699"
+           id="tspan4621">dflkjas</tspan><tspan
+           sodipodi:role="line"
+           x="106.92"
+           y="698.85699"
+           id="tspan4623">dflkjasd</tspan><tspan
+           sodipodi:role="line"
+           x="106.92"
+           y="721.35699"
+           id="tspan4625">lkj</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4536"
+         y="586.35699"
+         x="84.419998"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           id="tspan4538"
+           y="586.35699"
+           x="84.419998"
+           sodipodi:role="line">•</tspan><tspan
+           y="608.85699"
+           x="84.419998"
+           sodipodi:role="line"
+           id="tspan4540" /><tspan
+           y="631.35699"
+           x="84.419998"
+           sodipodi:role="line"
+           id="tspan4542"></tspan><tspan
+           id="tspan4544"
+           y="653.85699"
+           x="84.419998"
+           sodipodi:role="line">•</tspan><tspan
+           y="676.35699"
+           x="84.419998"
+           sodipodi:role="line"
+           id="tspan4546" /><tspan
+           y="698.85699"
+           x="84.419998"
+           sodipodi:role="line"
+           id="tspan4548">•</tspan></text>
+    </g>
+    <g
+       transform="translate(416.25,270.00002)"
+       id="g4550">
+      <rect
+         y="512.36188"
+         x="67.5"
+         height="236.25002"
+         width="348.75"
+         id="rect4552"
+         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0022b4;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="241.875"
+         y="554.10699"
+         id="text4554"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4556"
+           x="241.875"
+           y="554.10699">Overview</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4558"
+         y="586.35699"
+         x="106.92"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="586.35699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4572">laksjd</tspan><tspan
+           y="608.85699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4654">asjdfa</tspan><tspan
+           y="631.35699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4656">sdflkas</tspan><tspan
+           y="653.85699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4658">dflajsdf</tspan><tspan
+           y="676.35699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4660">ajksdfasdjf</tspan><tspan
+           y="698.85699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4662">asdjf</tspan><tspan
+           y="721.35699"
+           x="106.92"
+           sodipodi:role="line"
+           id="tspan4666">kj</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="84.419998"
+         y="586.35699"
+         id="text4574"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="84.419998"
+           y="586.35699"
+           id="tspan4576">•</tspan><tspan
+           id="tspan4578"
+           sodipodi:role="line"
+           x="84.419998"
+           y="608.85699" /><tspan
+           id="tspan4580"
+           sodipodi:role="line"
+           x="84.419998"
+           y="631.35699"></tspan><tspan
+           sodipodi:role="line"
+           x="84.419998"
+           y="653.85699"
+           id="tspan4582">•</tspan><tspan
+           id="tspan4584"
+           sodipodi:role="line"
+           x="84.419998"
+           y="676.35699" /><tspan
+           id="tspan4586"
+           sodipodi:role="line"
+           x="84.419998"
+           y="698.85699">•</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e8000d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="33.945312"
+       y="770.58307"
+       id="text4670"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4672"
+         x="33.945312"
+         y="770.58307">DRAFT DO NOT PRINT • DRAFT DO NOT PRINT • DRAFT DO NOT PRINT • DRAFT DO NOT PRINT • DRAFT DO NOT PRINT</tspan></text>
+  </g>
+</svg>
