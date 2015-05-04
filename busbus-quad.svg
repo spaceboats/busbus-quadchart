@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="423.91838"
-     inkscape:cy="312.09755"
+     inkscape:cx="542.67132"
+     inkscape:cy="339.99038"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -139,7 +139,7 @@
          id="tspan4508">    print(r.name)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:125%;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="450"
        y="444.86191"
        id="text3064"
@@ -158,7 +158,9 @@
          x="450"
          y="489.92691"
          style="font-size:16px;fill:#4d4d4d;fill-opacity:1"
-         id="tspan3872">spaceboats.github.io — github.com/spaceboats/busbus</tspan></text>
+         id="tspan3872"><tspan
+   style="-inkscape-font-specification:'DejaVu Sans Mono';font-family:'DejaVu Sans Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan3416">pip install busbus</tspan> — github.com/spaceboats/busbus</tspan></text>
     <g
        id="g4400"
        transform="translate(0,7.2998046e-6)">
