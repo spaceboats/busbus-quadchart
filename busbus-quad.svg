@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="542.67132"
-     inkscape:cy="339.99038"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="446.03609"
+     inkscape:cy="291.37293"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,8 +38,9 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     showguides="false"
-     inkscape:guide-bbox="true">
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-text-baseline="true">
     <sodipodi:guide
        orientation="1,0"
        position="416.25,0"
@@ -106,37 +107,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-377.3619)">
-    <text
-       xml:space="preserve"
-       style="font-size:13.99999976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';"
-       x="500.66998"
-       y="638.61188"
-       id="text4444"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan4456"
-         sodipodi:role="line"
-         x="500.66998"
-         y="638.61188">from busbus.provider.mbta \</tspan><tspan
-         sodipodi:role="line"
-         x="500.66998"
-         y="656.11188"
-         id="tspan4496">        import MBTAProvider</tspan><tspan
-         sodipodi:role="line"
-         x="500.66998"
-         y="673.61188"
-         id="tspan4498">mbta = MBTAProvider('api-key')</tspan><tspan
-         sodipodi:role="line"
-         x="500.66998"
-         y="691.11188"
-         id="tspan4502">for r in mbta.routes.where(</tspan><tspan
-         sodipodi:role="line"
-         x="500.66998"
-         y="708.61188"
-         id="tspan4506">        lambda r: len(r.stops) &gt; 10):</tspan><tspan
-         sodipodi:role="line"
-         x="500.66998"
-         y="726.11188"
-         id="tspan4508">    print(r.name)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -345,17 +315,17 @@
          x="449.39258"
          y="770.58307">DRAFT DO NOT PRINT • DRAFT DO NOT PRINT • DRAFT DO NOT PRINT • DRAFT DO NOT PRINT • DRAFT DO NOT PRINT</tspan></text>
     <g
-       id="g3185">
+       id="g3484">
       <rect
          y="782.36188"
          x="483.75"
          height="236.25002"
          width="348.75"
          id="rect4552"
-         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          xml:space="preserve"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0022b4;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0022b4;fill-opacity:1;stroke:none"
          x="658.125"
          y="824.10699"
          id="text4554"
@@ -368,40 +338,21 @@
          sodipodi:linespacing="125%"
          id="text4558"
          y="856.35699"
-         x="523.16998"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         x="506.93994"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="856.35699"
-           x="523.16998"
+           x="506.93994"
            sodipodi:role="line"
-           id="tspan3226">Display vehicle arrival times</tspan><tspan
+           id="tspan3232">Team developed Android app,</tspan><tspan
            y="878.85699"
-           x="523.16998"
+           x="506.93994"
            sodipodi:role="line"
-           id="tspan3230">with Android app or LED board</tspan><tspan
+           id="tspan3429">web app and LED display to show</tspan><tspan
            y="901.35699"
-           x="523.16998"
+           x="506.93994"
            sodipodi:role="line"
-           id="tspan3232">System analysis, route planning</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         x="500.66998"
-         y="856.35699"
-         id="text4574"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           x="500.66998"
-           y="856.35699"
-           id="tspan4576">•</tspan><tspan
-           id="tspan4578"
-           sodipodi:role="line"
-           x="500.66998"
-           y="878.85699" /><tspan
-           id="tspan4586"
-           sodipodi:role="line"
-           x="500.66998"
-           y="901.35699">•</tspan></text>
+           id="tspan3433">arrival times and other data</tspan></text>
       <image
          width="303.75"
          height="78.758278"
@@ -410,38 +361,72 @@
          x="506.25"
          y="917.35364" />
     </g>
-    <rect
-       y="512.36188"
-       x="483.75"
-       height="236.25002"
-       width="348.75"
-       id="rect4054"
-       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0022b4;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="658.125"
-       y="554.10699"
-       id="text4056"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4058"
+    <g
+       id="g3469">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4054"
+         width="348.75"
+         height="236.25002"
+         x="483.75"
+         y="512.36188" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4056"
+         y="554.10699"
          x="658.125"
-         y="554.10699">Query-based interface</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-       x="500.66998"
-       y="586.35699"
-       id="text4076"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="500.66998"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0022b4;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         xml:space="preserve"><tspan
+           y="554.10699"
+           x="658.125"
+           id="tspan4058"
+           sodipodi:role="line">Query-based interface</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4444"
+         y="638.61188"
+         x="508.71973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="638.61188"
+           x="508.71973"
+           sodipodi:role="line"
+           id="tspan4456">from busbus.provider.mbta \</tspan><tspan
+           id="tspan4496"
+           y="656.11188"
+           x="508.71973"
+           sodipodi:role="line">      import MBTAProvider</tspan><tspan
+           id="tspan4498"
+           y="673.61188"
+           x="508.71973"
+           sodipodi:role="line">mbta = MBTAProvider('api-key')</tspan><tspan
+           id="tspan4502"
+           y="691.11188"
+           x="508.71973"
+           sodipodi:role="line">for r in mbta.routes.where(</tspan><tspan
+           id="tspan4506"
+           y="708.61188"
+           x="508.71973"
+           sodipodi:role="line">      lambda r: len(r.stops) &gt; 10):</tspan><tspan
+           id="tspan4508"
+           y="726.11188"
+           x="508.71973"
+           sodipodi:role="line">    print(r.name)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4076"
          y="586.35699"
-         id="tspan4130">Get transit data without worrying</tspan><tspan
-         sodipodi:role="line"
-         x="500.66998"
-         y="608.85699"
-         id="tspan4170">about writing for specific APIs:</tspan></text>
+         x="508.71973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan4130"
+           y="586.35699"
+           x="508.71973"
+           sodipodi:role="line">Get transit data without worrying</tspan><tspan
+           id="tspan4170"
+           y="608.85699"
+           x="508.71973"
+           sodipodi:role="line">about writing for specific APIs:</tspan></text>
+    </g>
   </g>
 </svg>
