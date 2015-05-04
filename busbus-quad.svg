@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="502.35116"
-     inkscape:cy="339.36345"
+     inkscape:zoom="1"
+     inkscape:cx="454.15025"
+     inkscape:cy="340.3487"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,9 @@
     <sodipodi:guide
        orientation="1,0"
        position="416.25,0"
-       id="guide3074" />
+       id="guide3074"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        orientation="0,1"
        position="0,540"
@@ -250,11 +252,11 @@
            sodipodi:role="line"
            x="106.92"
            y="586.35699"
-           id="tspan4625">Consolidates different standards</tspan><tspan
+           id="tspan4625">Consolidates different</tspan><tspan
            sodipodi:role="line"
            x="106.92"
            y="608.85699"
-           id="tspan3201">into a single system</tspan><tspan
+           id="tspan3201">standards into a single system</tspan><tspan
            sodipodi:role="line"
            x="106.92"
            y="631.35699"
@@ -262,19 +264,19 @@
            sodipodi:role="line"
            x="106.92"
            y="653.85699"
-           id="tspan3217">with GTFS</tspan><tspan
+           id="tspan3217">with GTFS, etc.</tspan><tspan
            sodipodi:role="line"
            x="106.92"
            y="676.35699"
-           id="tspan3213">Realtime data (vehicle positions</tspan><tspan
+           id="tspan3213">Realtime data (arrivals, vehicle</tspan><tspan
            sodipodi:role="line"
            x="106.92"
            y="698.85699"
-           id="tspan3219">and arrivals) with agency APIs,</tspan><tspan
+           id="tspan3219">positions, and alerts) with</tspan><tspan
            sodipodi:role="line"
            x="106.92"
            y="721.35699"
-           id="tspan3221">GTFS-realtime, NextBus, etc.</tspan></text>
+           id="tspan3221">agency APIs, NextBus, etc.</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text4536"
