@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="307.62374"
-     inkscape:cy="82.834705"
+     inkscape:zoom="1"
+     inkscape:cx="475.42175"
+     inkscape:cy="294.2882"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -32605,11 +32605,11 @@ sPigqq598Klh3pwz/i8qF76HjpFyUwAAAABJRU5ErkJggg==
            y="878.85699"
            x="90.689941"
            sodipodi:role="line"
-           id="tspan3429">web app and LED display to show</tspan><tspan
+           id="tspan4299">web app and LED display to</tspan><tspan
            y="901.35699"
            x="90.689941"
            sodipodi:role="line"
-           id="tspan3433">arrival times and other data</tspan></text>
+           id="tspan4306">showcase the busbus API</tspan></text>
     </g>
     <g
        id="g5342">
@@ -32769,18 +32769,27 @@ sPigqq598Klh3pwz/i8qF76HjpFyUwAAAABJRU5ErkJggg==
        y="901.35699"
        id="text5212"
        sodipodi:linespacing="125%"><tspan
-         id="tspan5216"
          sodipodi:role="line"
          x="523.16998"
-         y="901.35699">Demos and documentation:</tspan><tspan
+         y="901.35699"
+         id="tspan4318">Integrate transit data into your</tspan><tspan
          sodipodi:role="line"
          x="523.16998"
          y="923.85699"
-         id="tspan5246">github.com/spaceboats/busbus</tspan><tspan
+         id="tspan4330">projects with less effort</tspan><tspan
          sodipodi:role="line"
          x="523.16998"
          y="946.35699"
-         id="tspan5252">put something else here eventually</tspan></text>
+         id="tspan4280">Demos and documentation:</tspan><tspan
+         sodipodi:role="line"
+         x="523.16998"
+         y="968.85699"
+         id="tspan4260"
+         style="fill:#001a8c;fill-opacity:1">github.com/spaceboats/busbus</tspan><tspan
+         sodipodi:role="line"
+         x="523.16998"
+         y="991.35699"
+         id="tspan4336">Open source project, join us!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -32792,14 +32801,22 @@ sPigqq598Klh3pwz/i8qF76HjpFyUwAAAABJRU5ErkJggg==
          x="500.66998"
          y="901.35699"
          id="tspan5230">•</tspan><tspan
-         id="tspan5232"
          sodipodi:role="line"
          x="500.66998"
-         y="923.85699" /><tspan
-         id="tspan5234"
+         y="923.85699"
+         id="tspan4262" /><tspan
          sodipodi:role="line"
          x="500.66998"
-         y="946.35699">•</tspan></text>
+         y="946.35699"
+         id="tspan4324">•</tspan><tspan
+         sodipodi:role="line"
+         x="500.66998"
+         y="968.85699"
+         id="tspan4272" /><tspan
+         sodipodi:role="line"
+         x="500.66998"
+         y="991.35699"
+         id="tspan4290">•</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
