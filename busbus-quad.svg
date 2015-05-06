@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="677.93453"
-     inkscape:cy="320.45498"
+     inkscape:cx="512.93453"
+     inkscape:cy="318.45498"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -101,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -399,87 +399,80 @@
            y="721.35699"
            id="tspan4505">... or host busbus as a web service</tspan></text>
     </g>
-    <g
-       id="g5325">
-      <rect
-         y="782.36188"
-         x="483.75"
-         height="236.25002"
-         width="348.75"
-         id="rect5125"
-         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0022b4;fill-opacity:1;stroke:none"
-         x="658.125"
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5125"
+       width="348.75"
+       height="236.25002"
+       x="483.75"
+       y="782.36188" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5127"
+       y="824.10699"
+       x="658.125"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0022b4;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
          y="824.10699"
-         id="text5127"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan5129"
-           x="658.125"
-           y="824.10699">Learn more</tspan></text>
-      <g
-         transform="translate(0,6.8634033)"
-         id="g5262">
-        <rect
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect5244"
-           width="235.62"
-           height="31.049999"
-           x="540.26227"
-           y="835.81781" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-           x="658.125"
-           y="856.35699"
-           id="text5131"
-           sodipodi:linespacing="125%"><tspan
-             id="tspan5186"
-             sodipodi:role="line"
-             x="658.125"
-             y="856.35699">$ pip install busbus</tspan></text>
-      </g>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5212"
-         y="901.35699"
+         x="658.125"
+         id="tspan5129"
+         sodipodi:role="line">Learn more</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5244"
+       width="235.62"
+       height="31.049999"
+       x="540.26227"
+       y="842.68121" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
+       x="658.125"
+       y="863.2204"
+       id="text5131"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5186"
+         sodipodi:role="line"
+         x="658.125"
+         y="863.2204">$ pip install busbus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="523.16998"
+       y="901.35699"
+       id="text5212"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5216"
+         sodipodi:role="line"
          x="523.16998"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="901.35699"
-           x="523.16998"
-           sodipodi:role="line"
-           id="tspan5216">Demos and documentation:</tspan><tspan
-           id="tspan5246"
-           y="923.85699"
-           x="523.16998"
-           sodipodi:role="line">github.com/spaceboats/busbus</tspan><tspan
-           id="tspan5252"
-           y="946.35699"
-           x="523.16998"
-           sodipodi:role="line">put something else here eventually</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5224"
-         y="901.35699"
+         y="901.35699">Demos and documentation:</tspan><tspan
+         sodipodi:role="line"
+         x="523.16998"
+         y="923.85699"
+         id="tspan5246">github.com/spaceboats/busbus</tspan><tspan
+         sodipodi:role="line"
+         x="523.16998"
+         y="946.35699"
+         id="tspan5252">put something else here eventually</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="500.66998"
+       y="901.35699"
+       id="text5224"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
          x="500.66998"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan5230"
-           y="901.35699"
-           x="500.66998"
-           sodipodi:role="line">•</tspan><tspan
-           y="923.85699"
-           x="500.66998"
-           sodipodi:role="line"
-           id="tspan5232" /><tspan
-           y="946.35699"
-           x="500.66998"
-           sodipodi:role="line"
-           id="tspan5234">•</tspan></text>
-    </g>
+         y="901.35699"
+         id="tspan5230">•</tspan><tspan
+         id="tspan5232"
+         sodipodi:role="line"
+         x="500.66998"
+         y="923.85699" /><tspan
+         id="tspan5234"
+         sodipodi:role="line"
+         x="500.66998"
+         y="946.35699">•</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
